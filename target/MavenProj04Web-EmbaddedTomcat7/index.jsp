@@ -1,0 +1,1 @@
+<h1 style="color:red;text-align:center;">Welcome to Maven Tomcat7 Plugin</h1>
